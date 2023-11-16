@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>multimedia</title>
+</head>
+<body>
+    <img src="./happiness is free.jpg" alt="beautiful water" width="400" height="300">
+    <img src="./eagle's nest.avif" alt="force of nature" width="400" height="300">
+
+    <figure>
+        <img src="./golf line.avif" alt="golf swing" width="400" height="300">
+        <figcaption>golf is a game of expression</figcaption>
+    </figure>
+    
+</body>
+</html>
